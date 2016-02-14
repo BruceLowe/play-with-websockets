@@ -1,0 +1,7 @@
+# index
+GET     /                           controllers.Application.index
+
+# Websocket
+GET     /wsWithActor                controllers.Application.wsConnect
+
+
