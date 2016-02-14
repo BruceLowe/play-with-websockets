@@ -12,6 +12,7 @@ The app stores websockets and a list of friends each user has.  Allowing them to
 * in the message box type:
 
 > user:1,Bruce  (it should say "Hi Bruce")
+
 > friends:2
 
 * open a second browser tab.  Go to : http://www.websocket.org/echo.html
@@ -24,6 +25,7 @@ The app stores websockets and a list of friends each user has.  Allowing them to
 > friends:1  (it should say “Friend Bruce is online”)```
 
 * If you go back to the 1st tab, you will see: “Friend Bob in online".  In tab 1 type
+
 > Hi Bob, want to watch a movie
 
 > start:movie
